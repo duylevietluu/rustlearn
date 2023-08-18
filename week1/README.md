@@ -45,4 +45,4 @@ Duy Le
 
 ## Acknowledgments
 
-- This assignment is based on material from the Oberlin CS Department of System Programming.
+- This assignment is based on material from the course Systems Programming from Oberlin CS Department.
